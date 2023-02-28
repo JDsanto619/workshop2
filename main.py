@@ -1,6 +1,6 @@
 def main():
     name = input('Enter your damn name! ')
-    print(f'Hello {name}!')
+    print(f'Hej {name}!')
     x=5
     y=7
     r = x+y
