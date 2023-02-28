@@ -4,7 +4,8 @@ def main():
     x=5
     y=7
     r = x+y
-    print(r)
+    t= r + 4
+    print(t)
 
 
 if __name__ == '__main__':
